@@ -1,0 +1,14 @@
+D:\бахаем курсач\Jepa\мое\СИАОД\LabFour\LabFour\obj\Debug\LabFour.csprojAssemblyReference.cache
+D:\бахаем курсач\Jepa\мое\СИАОД\LabFour\LabFour\obj\Debug\LabFour.csproj.CoreCompileInputs.cache
+D:\бахаем курсач\Jepa\мое\СИАОД\LabFour\LabFour\bin\Debug\LabFour.exe.config
+D:\бахаем курсач\Jepa\мое\СИАОД\LabFour\LabFour\bin\Debug\LabFour.exe
+D:\бахаем курсач\Jepa\мое\СИАОД\LabFour\LabFour\bin\Debug\LabFour.pdb
+D:\бахаем курсач\Jepa\мое\СИАОД\LabFour\LabFour\obj\Debug\LabFour.exe
+D:\бахаем курсач\Jepa\мое\СИАОД\LabFour\LabFour\obj\Debug\LabFour.pdb
+D:\Делааем\Opa\мое\СИАОД\LabFour\LabFour\bin\Debug\LabFour.exe.config
+D:\Делааем\Opa\мое\СИАОД\LabFour\LabFour\bin\Debug\LabFour.exe
+D:\Делааем\Opa\мое\СИАОД\LabFour\LabFour\bin\Debug\LabFour.pdb
+D:\Делааем\Opa\мое\СИАОД\LabFour\LabFour\obj\Debug\LabFour.csprojAssemblyReference.cache
+D:\Делааем\Opa\мое\СИАОД\LabFour\LabFour\obj\Debug\LabFour.csproj.CoreCompileInputs.cache
+D:\Делааем\Opa\мое\СИАОД\LabFour\LabFour\obj\Debug\LabFour.exe
+D:\Делааем\Opa\мое\СИАОД\LabFour\LabFour\obj\Debug\LabFour.pdb

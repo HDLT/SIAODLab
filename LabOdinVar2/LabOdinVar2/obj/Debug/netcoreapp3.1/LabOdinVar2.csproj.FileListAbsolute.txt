@@ -1,0 +1,26 @@
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.exe
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.deps.json
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.runtimeconfig.json
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.runtimeconfig.dev.json
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.dll
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.pdb
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.csprojAssemblyReference.cache
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.csproj.CoreCompileInputs.cache
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.AssemblyInfoInputs.cache
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.AssemblyInfo.cs
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.dll
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.pdb
+D:\бахаем курсач\Jepa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.genruntimeconfig.cache
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.exe
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.deps.json
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.runtimeconfig.json
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.runtimeconfig.dev.json
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.dll
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\bin\Debug\netcoreapp3.1\LabOdinVar2.pdb
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.csprojAssemblyReference.cache
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.csproj.CoreCompileInputs.cache
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.AssemblyInfoInputs.cache
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.AssemblyInfo.cs
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.dll
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.pdb
+D:\Делааем\Opa\мое\СИАОД\LabOdinVar2\LabOdinVar2\obj\Debug\netcoreapp3.1\LabOdinVar2.genruntimeconfig.cache

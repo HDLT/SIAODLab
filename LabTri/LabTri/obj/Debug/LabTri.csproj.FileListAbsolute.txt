@@ -1,0 +1,14 @@
+D:\бахаем курсач\Jepa\мое\СИАОД\LabTri\LabTri\bin\Debug\LabTri.exe.config
+D:\бахаем курсач\Jepa\мое\СИАОД\LabTri\LabTri\bin\Debug\LabTri.exe
+D:\бахаем курсач\Jepa\мое\СИАОД\LabTri\LabTri\bin\Debug\LabTri.pdb
+D:\бахаем курсач\Jepa\мое\СИАОД\LabTri\LabTri\obj\Debug\LabTri.csprojAssemblyReference.cache
+D:\бахаем курсач\Jepa\мое\СИАОД\LabTri\LabTri\obj\Debug\LabTri.csproj.CoreCompileInputs.cache
+D:\бахаем курсач\Jepa\мое\СИАОД\LabTri\LabTri\obj\Debug\LabTri.exe
+D:\бахаем курсач\Jepa\мое\СИАОД\LabTri\LabTri\obj\Debug\LabTri.pdb
+D:\Делааем\Opa\мое\СИАОД\LabTri\LabTri\obj\Debug\LabTri.csprojAssemblyReference.cache
+D:\Делааем\Opa\мое\СИАОД\LabTri\LabTri\obj\Debug\LabTri.csproj.CoreCompileInputs.cache
+D:\Делааем\Opa\мое\СИАОД\LabTri\LabTri\obj\Debug\LabTri.exe
+D:\Делааем\Opa\мое\СИАОД\LabTri\LabTri\obj\Debug\LabTri.pdb
+D:\Делааем\Opa\мое\СИАОД\LabTri\LabTri\bin\Debug\LabTri.exe.config
+D:\Делааем\Opa\мое\СИАОД\LabTri\LabTri\bin\Debug\LabTri.exe
+D:\Делааем\Opa\мое\СИАОД\LabTri\LabTri\bin\Debug\LabTri.pdb

@@ -1,0 +1,14 @@
+D:\бахаем курсач\Jepa\мое\СИАОД\LabDva\LabDva\obj\Debug\LabDva.csprojAssemblyReference.cache
+D:\бахаем курсач\Jepa\мое\СИАОД\LabDva\LabDva\obj\Debug\LabDva.csproj.CoreCompileInputs.cache
+D:\бахаем курсач\Jepa\мое\СИАОД\LabDva\LabDva\bin\Debug\LabDva.exe.config
+D:\бахаем курсач\Jepa\мое\СИАОД\LabDva\LabDva\bin\Debug\LabDva.exe
+D:\бахаем курсач\Jepa\мое\СИАОД\LabDva\LabDva\bin\Debug\LabDva.pdb
+D:\бахаем курсач\Jepa\мое\СИАОД\LabDva\LabDva\obj\Debug\LabDva.exe
+D:\бахаем курсач\Jepa\мое\СИАОД\LabDva\LabDva\obj\Debug\LabDva.pdb
+D:\Делааем\Opa\мое\СИАОД\LabDva\LabDva\bin\Debug\LabDva.exe.config
+D:\Делааем\Opa\мое\СИАОД\LabDva\LabDva\bin\Debug\LabDva.exe
+D:\Делааем\Opa\мое\СИАОД\LabDva\LabDva\bin\Debug\LabDva.pdb
+D:\Делааем\Opa\мое\СИАОД\LabDva\LabDva\obj\Debug\LabDva.csprojAssemblyReference.cache
+D:\Делааем\Opa\мое\СИАОД\LabDva\LabDva\obj\Debug\LabDva.csproj.CoreCompileInputs.cache
+D:\Делааем\Opa\мое\СИАОД\LabDva\LabDva\obj\Debug\LabDva.exe
+D:\Делааем\Opa\мое\СИАОД\LabDva\LabDva\obj\Debug\LabDva.pdb
