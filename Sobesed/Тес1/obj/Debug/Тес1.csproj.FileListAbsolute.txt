@@ -1,0 +1,7 @@
+D:\Делааем\Opa\мое\ОП\Progi\Тес1\Тес1\bin\Debug\Тес1.exe.config
+D:\Делааем\Opa\мое\ОП\Progi\Тес1\Тес1\bin\Debug\Тес1.exe
+D:\Делааем\Opa\мое\ОП\Progi\Тес1\Тес1\bin\Debug\Тес1.pdb
+D:\Делааем\Opa\мое\ОП\Progi\Тес1\Тес1\obj\Debug\Тес1.csprojAssemblyReference.cache
+D:\Делааем\Opa\мое\ОП\Progi\Тес1\Тес1\obj\Debug\Тес1.csproj.CoreCompileInputs.cache
+D:\Делааем\Opa\мое\ОП\Progi\Тес1\Тес1\obj\Debug\Тес1.exe
+D:\Делааем\Opa\мое\ОП\Progi\Тес1\Тес1\obj\Debug\Тес1.pdb
